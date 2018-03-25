@@ -11,7 +11,12 @@ The  subsequent lines describe each query in the following form:
   The second line contains space-separated integers describing the respective values of 'A'.
 
 2       <- Denotes number of queries
+
 4       <- Denotes number of elements in query.  This is query 1 of 2.
+
 1 1 2 2 < - Denotes space separated integers
+
 2       < - Denotes number of elements in query.  This is query 2 of 2.
+
 1 2     < - Denotes space separated integers
+
